@@ -7,7 +7,7 @@ We want to make contributing to Telicent Open Source Projects as easy and transp
 Contributors are encouraged to raise Issues using the templates provided in each repository. 
 
 ### Security Vulnerabilities
-If you find a security vulnerability, please do not publish it as an issue or pull request in a public forum. Please see our [security policy](https://github.com/telicent-os/.github/blob/main/SECURITY.md)for more information.
+If you find a security vulnerability, please do not publish it as an issue or pull request in a public forum. Please see our [Security Policy](https://github.com/telicent-os/.github/blob/main/SECURITY.md) for more information.
 
 ## Licence  
 By contributing to a Telicent Open Source Project, you agree that contributions will be licenced under the LICENCE file in the root directory of each project's source tree.
